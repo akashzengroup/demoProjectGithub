@@ -26,3 +26,13 @@ path : core.editor="C:\Users\Admin\AppData\Local\Programs\Microsoft VS Code\bin\
 
 ->Syntax : git status
 
+3> Adding repository
+
+-> It is used to add chnages from the working directory to the staging area.
+-> It mark the file for inculsion in the next commit.
+
+->Syntax : git add (filename) 
+		   git add * 
+		   git add .
+		   
+4> Commit changes 

@@ -64,4 +64,12 @@ path : core.editor="C:\Users\Admin\AppData\Local\Programs\Microsoft VS Code\bin\
 
 -> It will download all files, commit history, branches and tags from the remote repository.
 
--> Syntax : git clone <repository-URL>			
+-> Syntax : git clone <repository-URL>
+
+8> Merge command 
+
+-> It is used to combine the changes between different local repositories or branches.
+
+-> primiarly , it is used to meage branches is an online repository.
+
+-> Syntax : git merge FETCH_HEAD			

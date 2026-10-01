@@ -36,3 +36,17 @@ path : core.editor="C:\Users\Admin\AppData\Local\Programs\Microsoft VS Code\bin\
 		   git add .
 		   
 4> Commit changes 
+
+-> It is used to save  the changes from the stagging to git repository.
+-> Sysntax : git commit -m "first commit"
+
+5> verifying command
+
+-> It is used to view the commit history of a git repository
+
+-> It delays a list of commits in reverse order, showing the most recent commits first.
+
+-> Syantax : git log 
+             git log --oneline
+
+6>			 

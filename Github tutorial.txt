@@ -49,4 +49,19 @@ path : core.editor="C:\Users\Admin\AppData\Local\Programs\Microsoft VS Code\bin\
 -> Syantax : git log 
              git log --oneline
 
-6>			 
+6> difference command
+
+-> It is used to show the difference between the working directory  and the staging area.
+
+-> It is usefull for code review and debugging by checking the differnces before commiting chnages.
+
+-> syntax : git diff
+            git diff commit 1 commit 2
+
+7> clone command
+
+-> It is used to create a copy of an existing Git repository from a remote server (like GitHub, GitLab) to our local machine.
+
+-> It will download all files, commit history, branches and tags from the remote repository.
+
+-> Syntax : git clone <repository-URL>			

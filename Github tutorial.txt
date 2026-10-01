@@ -1,0 +1,28 @@
+Github credential
+
+email : akashzengroup@gmail.com
+username : akashzengroup
+
+path : core.editor="C:\Users\Admin\AppData\Local\Programs\Microsoft VS Code\bin\code"
+
+
+##Git basic command
+
+1> Creating a Repository (git init)
+
+->It is used to create and initilize a new git repository in folder.
+
+->It create a hidden .git folder in our directory. where git store all tracking information.
+
+->Syntax : git init
+
+2> Checking Status (git status)
+
+-> It is used to check current status of our git repository
+
+-> what does git status do ?
+  It show which files are stagged, unstagged or tracked.
+  it helps to see if there are changes to commit, files to stage or untracked files.
+
+->Syntax : git status
+
